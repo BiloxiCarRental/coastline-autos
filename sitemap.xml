@@ -1,2 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>https://www.biloxiautorepair.com/</loc></url></urlset>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://www.biloxiautorepair.com/</loc></url>
+  <url><loc>https://www.biloxiautorepair.com/brake-repair/</loc></url>
+  <url><loc>https://www.biloxiautorepair.com/oil-change/</loc></url>
+  <url><loc>https://www.biloxiautorepair.com/auto-ac-repair/</loc></url>
+  <url><loc>https://www.biloxiautorepair.com/engine-diagnostics/</loc></url>
+  <url><loc>https://www.biloxiautorepair.com/engine-repair/</loc></url>
+  <url><loc>https://www.biloxiautorepair.com/suspension-steering/</loc></url>
+  <url><loc>https://www.biloxiautorepair.com/auto-electrical-repair/</loc></url>
+  <url><loc>https://www.biloxiautorepair.com/cooling-system-repair/</loc></url>
+  <url><loc>https://www.biloxiautorepair.com/engine-replacement/</loc></url>
+  <url><loc>https://www.biloxiautorepair.com/transmission-replacement/</loc></url>
+  <url><loc>https://www.biloxiautorepair.com/extended-warranty-repair/</loc></url>
+</urlset>
